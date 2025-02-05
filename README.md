@@ -1,11 +1,11 @@
 
 New York City experiences a high volume of motor vehicle collisions. This is a big data project leveraging NYC Open Data to analyze these collisions.
-This project dives into three key datasets: collisions, vehicles, and people involved. By analyzing these interconnected datasets, we aim to gain insights into various aspects of NYC traffic accidents, including:
-▪ Accident Patterns (Factors) : Highlighting trends in accident times, vehicle types involved, pre-accident actions, location of the victim, contributing factors, etc
-▪ Impact Analysis (Consequences): Understanding the types of public property damaged and harm to human life
-▪ Spatial Distribution (Location Clustering): Examining collision distribution across boroughs, identifying potential hotspots and assigning weights.
-▪ Predictive Modeling: Developing models to predict human life loss and injuries in high-risk areas.
-This project aims to provide valuable data-driven insights to improve road safety and inform traffic management strategies in New York City.
+This project dives into three key datasets: collisions, vehicles, and people involved. By analyzing these interconnected datasets, we aim to gain insights into various aspects of NYC traffic accidents, including \n:
+▪ Accident Patterns (Factors) : Highlighting trends in accident times, vehicle types involved, pre-accident actions, location of the victim, contributing factors, etc \n
+▪ Impact Analysis (Consequences): Understanding the types of public property damaged and harm to human life \n
+▪ Spatial Distribution (Location Clustering): Examining collision distribution across boroughs, identifying potential hotspots and assigning weights. \n
+▪ Predictive Modeling: Developing models to predict human life loss and injuries in high-risk areas. \n
+This project aims to provide valuable data-driven insights to improve road safety and inform traffic management strategies in New York City. \n
 
 
 
